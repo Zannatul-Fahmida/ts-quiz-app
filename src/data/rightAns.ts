@@ -1,0 +1,1 @@
+export const rightAnswer:string[] = ["All of the above","Anders Hejlsberg","2012","All of the above","All of the above"]

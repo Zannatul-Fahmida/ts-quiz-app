@@ -1,0 +1,33 @@
+.main-container {
+  height: 100vh;
+  background-color: rgb(250, 237, 239);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button {
+  font-size: 18px;
+  padding: 10px 30px;
+  border: 0;
+  background-color: #ff078f;
+  color: white;
+  border-radius: 30px;
+}
+button:hover {
+  background-color: #da0279;
+  color: white;
+}
+.single-option {
+  font-size: 16px;
+  background-color: white;
+  margin-bottom: 20px;
+  padding: 8px 10px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+}
+.single-option input {
+  display: block;
+  width: 16px;
+  height: 16px;
+}
